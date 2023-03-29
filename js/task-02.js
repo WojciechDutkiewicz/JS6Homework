@@ -25,3 +25,12 @@ function addItem(...args) {
   }
 }
 addItem(ingredients);
+
+// const list = document.getElementById('ingredients');
+// const ingredients = ['Potatoes', 'Mushrooms', 'Garlic', 'Tomatos', 'Herbs', 'Condiments'];
+// ingredients.forEach(ingredient => {
+//   const item = document.createElement('li');
+//   item.textContent = ingredient;
+//   list.append(item);
+//   item.classList.add('item');
+// });
